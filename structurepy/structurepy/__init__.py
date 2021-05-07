@@ -5,7 +5,7 @@ class stack:
     """
     def __init__(self):
         """
-        constructor
+        basic constructor
         """
         self.arr = np.ndarray([])
     def push(self,data):
