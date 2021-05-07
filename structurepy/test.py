@@ -1,0 +1,10 @@
+from structurepy import stack
+a=stack()
+a.push(23)
+#print(a)
+a.push(3)
+a.push(4)
+a.push(5)
+a.push(6)
+print(a)
+print(len(a))
